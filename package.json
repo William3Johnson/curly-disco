@@ -62,7 +62,7 @@
     "chalk": "5.0.1",
     "classnames": "^2.3.1",
     "constants-browserify": "1.0.0",
-    "crypto-js": "4.0.0",
+    "crypto-js": "4.2.0",
     "customized-multiselect-dropdown": "^1.0.3",
     "date-fns": "^2.28.0",
     "dids": "3.1.0",
